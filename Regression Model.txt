@@ -1,0 +1,244 @@
+Regression Models
++++++++++++++++++++++++++++++++
+
+Week 1
+Week 1: Least Squares and Linear Regression
+
+Introduction
+Introduction to regression and least squares
+Linear least squares
+Regression to the Mean
+Practical R Exercises in swirl
+Week 1 Quiz
+Quiz: Quiz 1
+Week 2
+Week 2: Linear Regression & Multivariable Regression
+
+Statistical linear regression models
+Residuals
+Inference in regression
+For the project
+Practical R Exercises in swirl
+Week 2 Quiz
+Quiz: Quiz 2
+Week 3
+Week 3: Multivariable Regression, Residuals, & Diagnostics
+
+Multivariable regression
+Multivariable regression tips and tricks
+Adjustment
+Residuals again
+Model selection
+Practical R Exercises in swirl
+Week 3 Quiz
+Quiz: Quiz 3
+Week 4
+Week 4: Logistic Regression and Poisson Regression
+
+Week 4 New Videos
+Logistic Regression
+Poisson Regression
+Hodgepodge
+Practical R Exercises in swirl
+Week 4 Quiz
+Course Project
+Share Your Feedback
+Quiz: Quiz 4
+Peer Graded Assignment: Regression Models Course Project
+
+
+Week 1: Least Squares and Linear Regression
++++++++++++++++++++++++++++++++++
+
+Introduction
+
+Welcome to Regression Models						10 min
+Book: Regression Models for Data Science in R	10 min
+Syllabus														10 min
+Pre-Course Survey										10 min
+Data Science Specialization Community Site		10 min
+Where to get more advanced material				10 min
+
+Introduction to regression and least squares
+----------------------------------------------------------
+Start Lesson
+Regression										10 min
+Introduction to Regression					6 min
+Introduction: Basic Least Squares		6 min
+Technical details								10 min
+Technical Details (Skip if you'd like)		2 min
+Introductory Data Example					12 min
+
+Linear least squares
+-----------------------------
+Least squares										10 min
+Notation and Background						7 min
+Linear Least Squares								6 min
+Linear Least Squares Coding Example		7 min
+Technical Details (Skip if you'd like)			11 min
+
+Regression to the Mean
+-----------------------------
+Regression to the mean		10 min
+Regression to the Mean		11 min
+
+Practical R Exercises in swirl
+-----------------------------------
+Practical R Exercises in swirl Part 1																10 min
+Practice Programming Assignment: swirl Lesson 1: Introduction						3h
+Practice Programming Assignment: swirl Lesson 2: Residuals							3h
+Practice Programming Assignment: swirl Lesson 3: Least Squares Estimation	3h
+
+Week 1 Quiz
+---------------
+Quiz: Quiz 1	10 questions
+
+
+Week 2: Linear Regression & Multivariable Regression
++++++++++++++++++++++++++++++++++++++
+Statistical linear regression models
+-----------------------------------------
+Start Lesson
+*Statistical* linear regression models						10 min
+Statistical Linear Regression Models							2 min
+Interpreting Coefficients											3 min
+Linear Regression for Prediction								10 min
+
+Residuals
+-----------------------------------------
+Residuals										10 min
+Residuals										5 min
+Residuals, Coding Example				14 min
+Residual Variance							7 min
+
+Inference in regression
+-----------------------------------------
+Inference in regression			10 min
+Inference in Regression			5 min
+Coding Example						6 min
+Prediction								9 min
+
+For the project
+-----------------------------------------
+Looking ahead to the project			10 min
+Really, really quick intro to knitr		3 min
+
+Practical R Exercises in swirl
+-----------------------------------------
+Practical R Exercises in swirl Part 2																						10 min
+This item will be unlocked when the session begins.
+Practice Programming Assignment: swirl Lesson 1: Residual Variation										3h
+This item will be unlocked when the session begins.
+Practice Programming Assignment: swirl Lesson 2: Introduction to Multivariable Regression		3h
+This item will be unlocked when the session begins.
+Practice Programming Assignment: swirl Lesson 3: MultiVar Examples									3h
+
+Week 2 Quiz
+-----------------------------------------
+This item will be unlocked when the session begins.
+Quiz: Quiz 210 questions
+
+Week 3: Multivariable Regression, Residuals, & Diagnostics
++++++++++++++++++++++++++++++++++++++
+Multivariable regression
+-----------------------------------------
+Start Lesson
+Multivariable regression						10 min
+Multivariable Regression part I			9 min
+Multivariable Regression part II			10 min
+Multivariable Regression Continued		8 min
+
+Multivariable regression tips and tricks
+-----------------------------------------
+Multivariable Regression Examples part I			19 min
+Multivariable Regression Examples part II		22 min
+Multivariable Regression Examples part III		7 min
+Multivariable Regression Examples part IV		7 min
+
+Adjustment
+-----------------------------------------
+Adjustment					10 min
+Adjustment Examples		17 min
+
+Residuals again
+-----------------------------------------
+Residuals10 min
+Residuals and Diagnostics part I		5 min
+Residuals and Diagnostics part II		9 min
+Residuals and Diagnostics part III	9 min
+
+Model selection
+-----------------------------------------
+Model selection				10 min
+Model Selection part I		7 min
+Model Selection part II	22 min
+Model Selection part III	12 min
+
+Practical R Exercises in swirl
+-----------------------------------------
+Practical R Exercises in swirl Part 3																				10 min
+This item will be unlocked when the session begins.
+Practice Programming Assignment: swirl Lesson 1: MultiVar Examples2							3h
+This item will be unlocked when the session begins.
+Practice Programming Assignment: swirl Lesson 2: MultiVar Examples3							3h
+This item will be unlocked when the session begins.
+Practice Programming Assignment: swirl Lesson 3: Residuals Diagnostics and Variation	3h
+
+Week 3 Quiz
+-----------------------------------------
+This item will be unlocked when the session begins.
+Quiz: Quiz 3	7 questions
+
+Week 4: Logistic Regression and Poisson Regression
++++++++++++++++++++++++++++++++++++++
+Week 4 New Videos
+-----------------------------------------
+Start Lesson
+GLMs	10 min
+GLMs	21 min
+
+Logistic Regression
+-----------------------------------------
+Logistic regression				10 min
+Logistic Regression part I	17 min
+Logistic Regression part II	3 min
+Logistic Regression part III	8 min
+
+Poisson Regression
+-----------------------------------------
+Count Data						10 min
+Poisson Regression part I	12 min
+Poisson Regression part II	12 min
+
+Hodgepodge
+-----------------------------------------
+Mishmash							10 min
+Hodgepodge						18 min
+
+Practical R Exercises in swirl
+-----------------------------------------
+Practical R Exercises in swirl Part 4																	10 min
+This item will be unlocked when the session begins.
+Practice Programming Assignment: swirl Lesson 1: Variance Inflation Factors		3h
+This item will be unlocked when the session begins.
+Practice Programming Assignment: swirl Lesson 2: Overfitting and Underfitting	3h
+This item will be unlocked when the session begins.
+Practice Programming Assignment: swirl Lesson 3: Binary Outcomes					3h
+This item will be unlocked when the session begins.
+Practice Programming Assignment: swirl Lesson 4: Count Outcomes					3h
+
+Week 4 Quiz
+-----------------------------------------
+This item will be unlocked when the session begins.
+Quiz: Quiz 4	6 questions
+
+Course Project
+-----------------------------------------
+This item will be unlocked when the session begins.
+Peer Graded Assignment: Regression Models Course Project1h
+This item will be unlocked when the session begins.
+Review Your Peers: Regression Models Course Project
+Share Your Feedback
+
+Post-Course Survey10 min
+
